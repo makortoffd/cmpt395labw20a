@@ -2,8 +2,8 @@
 
 ## Members
 - Dakotah Makortoff
-	My Github: makortoffd
+	-My Github: makortoffd
 - Ian MacDonald
-	My Github: macdonaldi22
+	-My Github: macdonaldi22
 - Desmond Adeyanju
-	My Github: desmond-adeyanju
+	-My Github: desmond-adeyanju
